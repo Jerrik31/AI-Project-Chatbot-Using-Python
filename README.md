@@ -1,4 +1,4 @@
 # AIproject
 Naan Mudhalvan AI project work.
-my first project in AI
+Chatbot using Python
 by - jerrik
