@@ -1,4 +1,3 @@
 # AIproject
 Naan Mudhalvan AI project work.
-Chatbot using Python
-by - jerrik
+Chatbot using Python.
