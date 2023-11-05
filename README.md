@@ -10,12 +10,13 @@ Dataset Link: https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbo
            CREATE A CHATBOT IN PYTHON
 # HOW TO RUN:
     1.Install the Visual Code App 
-    2.Type the code & Execute the given code
+    2.Type the code & Execute the given code file(CODINGS.Zip)after extraction.
     3.Next open the terminal
-    4.Run the source code file using python compiler
+    4.Run the python code file using python compiler use python chat.py comment to run.
     5.It gives Local host server
     6.Open the host server your web browser
     7.Now you ask the question for our chatbot model
+    
     
 
 # This project is designe a Chatbot using a Python
